@@ -1,0 +1,16 @@
+# random or circle.
+initial_solution = random
+size_x = 6
+size_y = 6
+size_z = 5
+
+use3D = False
+
+use_dg = True
+order = 1
+
+dt = 1e-2
+final_time = 1.
+C_psi = 0.05
+epsilon = 0.005
+mobility_constant = 25.
